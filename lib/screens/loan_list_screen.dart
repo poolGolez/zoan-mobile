@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 
 import '../widgets/loans_list/loan_entry_widget.dart';
 
-class LoansScreen extends StatelessWidget {
+class LoanListScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
